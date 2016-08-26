@@ -15,6 +15,9 @@ public class Cliente {
      * @param args the command line arguments
      */
     public static void main(String[] args) {
+        
+        int contador=0;
+        int contador++;
         // TODO code application logic here
     }
     
